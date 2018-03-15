@@ -1,0 +1,22 @@
+import math
+x=12
+y=14
+z=4+5j
+a=1.88888888888888
+b=math.floor(3.15)
+c=id(x)
+d=4.99999999999
+h=3.14
+i=89765
+j=6754
+print b
+print c
+print h
+sum=a+b+c
+sub=x-z
+mul=i*j
+div=i/j
+printa+b+c
+print sub
+print mul
+print div
