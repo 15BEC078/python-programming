@@ -1,0 +1,29 @@
+import math
+a=5
+b=2+5j
+c=4.76
+d=id(a)
+e=math.floor(c)
+f=6
+g=89
+h=789
+i=432
+j=98
+k=a+b+j+d
+print k
+l=b-c
+print l
+m=d*e
+print m
+n=a/f
+print n
+o=h**j
+print o
+p=a|f
+print p
+q=a&f
+print q
+r=(~a)
+print r
+s=a%f
+print s
