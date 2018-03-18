@@ -1,7 +1,7 @@
-n=str(raw_input())
-if 'a'<=n<='z':
+N=str(raw_input())
+if 'a'<=N<='z':
   print "Alphabet"
-elif 'A'<=n<='Z':
+elif 'A'<=N<='Z':
   print "Alphabet"
 else:
   print "No"
