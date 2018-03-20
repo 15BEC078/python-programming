@@ -4,5 +4,5 @@ for i in range (2,N):
         print "no"
         break
     else:
-        print "prime"
+        print "yes"
         break
