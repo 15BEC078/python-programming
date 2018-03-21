@@ -1,4 +1,4 @@
-a=['saturday','sunday']
+a=['Saturday','Sunday']
 N=str(raw_input())
 if N in a:
      print "yes"
