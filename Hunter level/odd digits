@@ -1,0 +1,7 @@
+n=int(raw_input())
+while n>0:
+   d=n%10
+   n=n/10
+   o=d%2
+   if o==1:
+      print d,
